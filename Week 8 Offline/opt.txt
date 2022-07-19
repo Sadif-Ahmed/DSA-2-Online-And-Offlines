@@ -1,3 +1,0 @@
-Path Length  Path Cost  Bin_Heap Runtime  Fib_Heap Runtime
-7                 1580                 0                0
-5                 1370                 0                0
